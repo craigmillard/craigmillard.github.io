@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - static
 
 website:
   title: "craigmillard.github.io"
@@ -8,15 +10,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: flatly
+    page-layout: full
     toc: true
-
-
-
+    toc-depth: 3
+    css: styles.css

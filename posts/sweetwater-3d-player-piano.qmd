@@ -1,0 +1,36 @@
+---
+title: "Sweetwater – A 3D Player Piano"
+date: 2021-09-13
+categories: [Art, Music]
+description: "A multi-voice piano arrangement inspired by Westworld, built with MIDI, After Effects, and custom scripting."
+---
+
+## The Music and Recording
+
+This is an arrangement I made featuring four voices. I originally got the idea from the player piano from the *Westworld* intro, but I wanted to expand on it — having it move through space on three axes. To make things even more compelling I wanted a time-synced effect with each voice.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/OGt4W1YSb0M" frameborder="0" allowfullscreen></iframe>
+
+After I recorded the performance on a green screen and 4K camera, I used After Effects, Visual Studio Code + Adobe plugin, and [Tone.js](https://tonejs.github.io/) to render the MIDI data. The mixing was done in Ableton.
+
+![Green screen and Seaboard RISE 25](/static/media/2021/09/6DB6076E-67DC-4683-B28E-72708D54EFBD.jpg)
+
+## Products and Libraries
+
+- [ROLI Seaboard RISE 25](https://roli.com/products/seaboard/rise-25)  
+- [Tone.js](https://tonejs.github.io/)  
+- [Types for Adobe](https://github.com/bbb999/Types-for-Adobe)  
+- [Visual Studio Code](https://code.visualstudio.com/)  
+- [Node.js](https://nodejs.org/)  
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)  
+- [ExtendScript Debugger for VSCode](https://marketplace.visualstudio.com/items?itemName=Adobe.extendscript-debug)
+
+I also used Premiere/Media Encoder for the final render. The ExtendScript debugger was pretty rough to use, as was walking the property arrays within After Effects to figure out how to render rectangles from MIDI data. I’ll consider alternatives. I love AE, but a good scripting interface is a must these days.
+
+## My Code
+
+To be fair to those who wrote the extension, it’s probably not as bad as this code that drew the rectangles from the MIDI data (generated object by Tone.js). However, I haven’t found a better documented way for drawing rectangles, so I may take some time to refactor this — it’s something I’m sure other people would like to do too.
+
+[https://github.com/craigmillard/sweetwater-visuals/](https://github.com/craigmillard/sweetwater-visuals/)
+
+![MIDI rectangles drawn into AE](/static/media/2021/09/Screen-Shot-2021-09-12-at-11.46.30-PM-1.png)

@@ -1,5 +1,70 @@
 ---
 title: "About"
+page-layout: full
 ---
 
-About this site
+## The Early Years (1990s – 2005)
+
+Craig is a musician (piano, vocals, guitar) and producing artist residing in Juneau, Alaska. Craig began playing piano at age seven and studied with Sue Kazama throughout middle/high school. He participated in the JDHS Jazz band and was selected for the *All Alaska Jazz Band* directed by [Bill Watrous](https://en.wikipedia.org/wiki/Bill_Watrous) in 2004–2005. The Jazz band is part of the [Sitka Jazz Festival](https://en.wikipedia.org/wiki/Sitka_Jazz_Festival). He briefly studied music at the University of Alaska Fairbanks, where he accidentally enrolled in a 400-level history of music course, then later earned a business degree with a concentration in finance.
+
+## The College Years and Return to Juneau (2011 – 2017)
+
+During that time he started a band with [Annie B](http://www.anniebalaska.com/), Eli Barry-Garland, and Megan Packee called *Annie Where The Sun Don't Shine*. They performed at venues including the UAF Pub and The Marlin, playing Annie Bartholomew’s original works and blues hits.
+
+After returning to Juneau, Craig co-founded and named [The Flustered Cluckers](https://www.facebook.com/flusteredcluckers), a bluesy rock cover band that played Brewfest, The JACC, McGivney's, The Rendezvous, The Rockwell, and the Juneau Maritime Festival. Founding members included Sophie Lager, Alexei Painter, Craig Millard, and Yoshi Tanha, with additional members Darren Jaeckel and Luke Weld. Craig also performed solo at McGivney’s with originals and covers.
+
+## Australian Hiatus, Pandemic Repatriation, and Return to Juneau #2 (2017 – Present)
+
+Craig took a long break from music while living and working in Australia from 2017 to 2020. After returning during the pandemic, he founded [The Royal Wedding Band](https://www.instagram.com/theroyalweddingband/) with [Taylor Dallas Vidic](https://www.taylorvidic.com/), [Tim Powers](https://www.instagram.com/tim_in_ak/), [David Elrod](https://www.instagram.com/thedavidelrod/), and Sam Roberts. The band opened [The Crystal Saloon](https://www.crystalsaloon.com/) and performed "hits from the 20s to the 20s." They played venues across Alaska, including weddings. Additional members included Rob Cohen, Luke Weld, [Chazz Gist](https://www.instagram.com/chazzgist/), and Ceanne.
+
+Craig has performed at multiple [Alaska Folk Festivals](https://akfolkfest.org/) and [Mudrooms](https://mudrooms.org/).
+
+---
+
+## Bands
+
+- **Zero Hour Jazz Band** (High school, 2004–2005) – Jazz Piano  
+- **Annie Where The Sun Don’t Shine** (2011–2012) – Piano  
+- **The Flustered Cluckers** (2014–2017) – Piano  
+- **The Royal Wedding Band** (2021–2022) – Piano  
+- **Ween Cover Band** (2024–Present)  
+- **Solo Artist** (2016–Present) – Piano & Vocals  
+
+---
+
+## Other Productions
+
+- *Jesus Christ Superstar* – [Theatre @ Latitude 58](https://www.facebook.com/theateratlatitude58admin/)
+
+---
+
+## Formal Instruction
+
+- Group Piano (1994)  
+- Private Piano (Sue Kazama, 1995–2005)  
+- Jazz Band with Ken Guiher (2004–2005)  
+- Private Piano (Rob Cohen, 2016)  
+- Piano & Voice (Megan Felts, [North Star Music Academy](https://northstarmusicacademy.com/), 2023–Present)
+
+---
+
+## Related Instruction
+
+- University Chorus / Music History (UAF, 2007)  
+- Digital Animation & Motion Graphics (School of Visual Arts, 2021–2022)
+
+---
+
+## Production Skills
+
+Craig is a software developer by trade and merges that with creative work in music and video. He’s especially interested in MIDI-controlled environments. One recent project included a background video for a talent portion in the [Miss Gay America national pageant](http://www.missgayamerica.com/).
+
+**Tools:**
+
+- Adobe Premiere / After Effects  
+- Ableton 12 (10+ years)  
+- UAD Plugins + Apollo Twin  
+- Audacity (15+ years)  
+- OBS  
+- Musescore  
+- LightKey  

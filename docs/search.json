@@ -1,16 +1,100 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "craigmillard.github.io",
+    "objectID": "posts/sweetwater-3d-player-piano.html",
+    "href": "posts/sweetwater-3d-player-piano.html",
+    "title": "Sweetwater – A 3D Player Piano",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is an arrangement I made featuring four voices. I originally got the idea from the player piano from the Westworld intro, but I wanted to expand on it — having it move through space on three axes. To make things even more compelling I wanted a time-synced effect with each voice.\n\n\nAfter I recorded the performance on a green screen and 4K camera, I used After Effects, Visual Studio Code + Adobe plugin, and Tone.js to render the MIDI data. The mixing was done in Ableton.\n\n\n\nGreen screen and Seaboard RISE 25"
+  },
+  {
+    "objectID": "posts/sweetwater-3d-player-piano.html#the-music-and-recording",
+    "href": "posts/sweetwater-3d-player-piano.html#the-music-and-recording",
+    "title": "Sweetwater – A 3D Player Piano",
+    "section": "",
+    "text": "This is an arrangement I made featuring four voices. I originally got the idea from the player piano from the Westworld intro, but I wanted to expand on it — having it move through space on three axes. To make things even more compelling I wanted a time-synced effect with each voice.\n\n\nAfter I recorded the performance on a green screen and 4K camera, I used After Effects, Visual Studio Code + Adobe plugin, and Tone.js to render the MIDI data. The mixing was done in Ableton.\n\n\n\nGreen screen and Seaboard RISE 25"
+  },
+  {
+    "objectID": "posts/sweetwater-3d-player-piano.html#products-and-libraries",
+    "href": "posts/sweetwater-3d-player-piano.html#products-and-libraries",
+    "title": "Sweetwater – A 3D Player Piano",
+    "section": "Products and Libraries",
+    "text": "Products and Libraries\n\nROLI Seaboard RISE 25\n\nTone.js\n\nTypes for Adobe\n\nVisual Studio Code\n\nNode.js\n\nAdobe After Effects\n\nExtendScript Debugger for VSCode\n\nI also used Premiere/Media Encoder for the final render. The ExtendScript debugger was pretty rough to use, as was walking the property arrays within After Effects to figure out how to render rectangles from MIDI data. I’ll consider alternatives. I love AE, but a good scripting interface is a must these days."
+  },
+  {
+    "objectID": "posts/sweetwater-3d-player-piano.html#my-code",
+    "href": "posts/sweetwater-3d-player-piano.html#my-code",
+    "title": "Sweetwater – A 3D Player Piano",
+    "section": "My Code",
+    "text": "My Code\nTo be fair to those who wrote the extension, it’s probably not as bad as this code that drew the rectangles from the MIDI data (generated object by Tone.js). However, I haven’t found a better documented way for drawing rectangles, so I may take some time to refactor this — it’s something I’m sure other people would like to do too.\nhttps://github.com/craigmillard/sweetwater-visuals/\n\n\n\nMIDI rectangles drawn into AE"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Craig is a musician (piano, vocals, guitar) and producing artist residing in Juneau, Alaska. Craig began playing piano at age seven and studied with Sue Kazama throughout middle/high school. He participated in the JDHS Jazz band and was selected for the All Alaska Jazz Band directed by Bill Watrous in 2004–2005. The Jazz band is part of the Sitka Jazz Festival. He briefly studied music at the University of Alaska Fairbanks, where he accidentally enrolled in a 400-level history of music course, then later earned a business degree with a concentration in finance."
+  },
+  {
+    "objectID": "about.html#the-early-years-1990s-2005",
+    "href": "about.html#the-early-years-1990s-2005",
+    "title": "About",
+    "section": "",
+    "text": "Craig is a musician (piano, vocals, guitar) and producing artist residing in Juneau, Alaska. Craig began playing piano at age seven and studied with Sue Kazama throughout middle/high school. He participated in the JDHS Jazz band and was selected for the All Alaska Jazz Band directed by Bill Watrous in 2004–2005. The Jazz band is part of the Sitka Jazz Festival. He briefly studied music at the University of Alaska Fairbanks, where he accidentally enrolled in a 400-level history of music course, then later earned a business degree with a concentration in finance."
+  },
+  {
+    "objectID": "about.html#the-college-years-and-return-to-juneau-2011-2017",
+    "href": "about.html#the-college-years-and-return-to-juneau-2011-2017",
+    "title": "About",
+    "section": "The College Years and Return to Juneau (2011 – 2017)",
+    "text": "The College Years and Return to Juneau (2011 – 2017)\nDuring that time he started a band with Annie B, Eli Barry-Garland, and Megan Packee called Annie Where The Sun Don’t Shine. They performed at venues including the UAF Pub and The Marlin, playing Annie Bartholomew’s original works and blues hits.\nAfter returning to Juneau, Craig co-founded and named The Flustered Cluckers, a bluesy rock cover band that played Brewfest, The JACC, McGivney’s, The Rendezvous, The Rockwell, and the Juneau Maritime Festival. Founding members included Sophie Lager, Alexei Painter, Craig Millard, and Yoshi Tanha, with additional members Darren Jaeckel and Luke Weld. Craig also performed solo at McGivney’s with originals and covers."
+  },
+  {
+    "objectID": "about.html#australian-hiatus-pandemic-repatriation-and-return-to-juneau-2-2017-present",
+    "href": "about.html#australian-hiatus-pandemic-repatriation-and-return-to-juneau-2-2017-present",
+    "title": "About",
+    "section": "Australian Hiatus, Pandemic Repatriation, and Return to Juneau #2 (2017 – Present)",
+    "text": "Australian Hiatus, Pandemic Repatriation, and Return to Juneau #2 (2017 – Present)\nCraig took a long break from music while living and working in Australia from 2017 to 2020. After returning during the pandemic, he founded The Royal Wedding Band with Taylor Dallas Vidic, Tim Powers, David Elrod, and Sam Roberts. The band opened The Crystal Saloon and performed “hits from the 20s to the 20s.” They played venues across Alaska, including weddings. Additional members included Rob Cohen, Luke Weld, Chazz Gist, and Ceanne.\nCraig has performed at multiple Alaska Folk Festivals and Mudrooms."
+  },
+  {
+    "objectID": "about.html#bands",
+    "href": "about.html#bands",
+    "title": "About",
+    "section": "Bands",
+    "text": "Bands\n\nZero Hour Jazz Band (High school, 2004–2005) – Jazz Piano\n\nAnnie Where The Sun Don’t Shine (2011–2012) – Piano\n\nThe Flustered Cluckers (2014–2017) – Piano\n\nThe Royal Wedding Band (2021–2022) – Piano\n\nWeen Cover Band (2024–Present)\n\nSolo Artist (2016–Present) – Piano & Vocals"
+  },
+  {
+    "objectID": "about.html#other-productions",
+    "href": "about.html#other-productions",
+    "title": "About",
+    "section": "Other Productions",
+    "text": "Other Productions\n\nJesus Christ Superstar – Theatre @ Latitude 58"
+  },
+  {
+    "objectID": "about.html#formal-instruction",
+    "href": "about.html#formal-instruction",
+    "title": "About",
+    "section": "Formal Instruction",
+    "text": "Formal Instruction\n\nGroup Piano (1994)\n\nPrivate Piano (Sue Kazama, 1995–2005)\n\nJazz Band with Ken Guiher (2004–2005)\n\nPrivate Piano (Rob Cohen, 2016)\n\nPiano & Voice (Megan Felts, North Star Music Academy, 2023–Present)"
+  },
+  {
+    "objectID": "about.html#related-instruction",
+    "href": "about.html#related-instruction",
+    "title": "About",
+    "section": "Related Instruction",
+    "text": "Related Instruction\n\nUniversity Chorus / Music History (UAF, 2007)\n\nDigital Animation & Motion Graphics (School of Visual Arts, 2021–2022)"
+  },
+  {
+    "objectID": "about.html#production-skills",
+    "href": "about.html#production-skills",
+    "title": "About",
+    "section": "Production Skills",
+    "text": "Production Skills\nCraig is a software developer by trade and merges that with creative work in music and video. He’s especially interested in MIDI-controlled environments. One recent project included a background video for a talent portion in the Miss Gay America national pageant.\nTools:\n\nAdobe Premiere / After Effects\n\nAbleton 12 (10+ years)\n\nUAD Plugins + Apollo Twin\n\nAudacity (15+ years)\n\nOBS\n\nMusescore\n\nLightKey"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "craigmillard.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
