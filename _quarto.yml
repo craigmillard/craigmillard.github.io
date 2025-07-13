@@ -14,12 +14,14 @@ website:
       - href: about.qmd
         text: About
       - href: archives.qmd
-        text: The Archives        
+        text: Archives      
+      - href: contact.qmd
+        text: Contact / Bookings          
 
 format:
   html:
-    theme: flatly
+    theme: zephyr
     page-layout: full
     toc: true
     toc-depth: 3
-    css: styles.css
+

@@ -1,5 +1,5 @@
 ---
-title: "The Archives"
+title: "Archives"
 listing:
   contents: posts
   sort: "date desc"
