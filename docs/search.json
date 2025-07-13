@@ -28,6 +28,13 @@
     "text": "My Code\nTo be fair to those who wrote the extension, it’s probably not as bad as this code that drew the rectangles from the MIDI data (generated object by Tone.js). However, I haven’t found a better documented way for drawing rectangles, so I may take some time to refactor this — it’s something I’m sure other people would like to do too.\nhttps://github.com/craigmillard/sweetwater-visuals/\n\n\n\nMIDI rectangles drawn into AE"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Recent music projects",
+    "section": "",
+    "text": "Santeria (Cover Song) with UA plugins\n\n\nA cover of Sublime’s ‘Santeria’ featuring Universal Audio plugins and live vocals.\n\n\n\n\n\nOct 4, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nSweetwater – A 3D Player Piano\n\n\nA multi-voice piano arrangement inspired by Westworld, built with MIDI, After Effects, and custom scripting.\n\n\n\n\n\nSep 13, 2021\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -91,10 +98,10 @@
     "text": "Production Skills\nCraig is a software developer by trade and merges that with creative work in music and video. He’s especially interested in MIDI-controlled environments. One recent project included a background video for a talent portion in the Miss Gay America national pageant.\nTools:\n\nAdobe Premiere / After Effects\n\nAbleton 12 (10+ years)\n\nUAD Plugins + Apollo Twin\n\nAudacity (15+ years)\n\nOBS\n\nMusescore\n\nLightKey"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "craigmillard.github.io",
+    "objectID": "posts/santeria-cover-song.html",
+    "href": "posts/santeria-cover-song.html",
+    "title": "Santeria (Cover Song) with UA plugins",
     "section": "",
-    "text": "Welcome to my site.\n\nSweetwater – A 3D Player Piano\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a video of me covering Santeria by Sublime. I’m not an expert on video production, but I do know it is very important to get your llamas in frame- whether they be of the cup or stuffed variety.\n\n\nI also used a UA Apollo Twin as the interface, and everything was tracked in Ableton. The video was synced and edited in Premiere."
   }
 ]

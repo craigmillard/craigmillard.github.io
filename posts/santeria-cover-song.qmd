@@ -1,0 +1,13 @@
+---
+title: "Santeria (Cover Song) with UA plugins"
+date: 2021-10-04
+categories: [Music, Covers]
+description: "A cover of Sublime’s 'Santeria' featuring Universal Audio plugins and live vocals."
+image: /static/media/Santeria-Cover-Preview.png
+---
+
+This is a video of me covering *Santeria* by Sublime. I’m not an expert on video production, but I do know it is very important to get your llamas in frame- whether they be of the cup or stuffed variety.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/xetHuI6mUXY" frameborder="0" allowfullscreen></iframe>
+
+I also used a **UA Apollo Twin** as the interface, and everything was tracked in **Ableton**. The video was synced and edited in **Premiere**.

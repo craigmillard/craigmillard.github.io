@@ -1,9 +1,7 @@
 ---
-title: "craigmillard.github.io"
+title: "Recent music projects"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
 ---
-
-Welcome to my site.
-
-- [Sweetwater – A 3D Player Piano](posts/sweetwater-3d-player-piano.html)
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

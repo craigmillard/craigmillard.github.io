@@ -3,6 +3,7 @@ title: "Sweetwater – A 3D Player Piano"
 date: 2021-09-13
 categories: [Art, Music]
 description: "A multi-voice piano arrangement inspired by Westworld, built with MIDI, After Effects, and custom scripting."
+image: /static/media/Sweetwater-Preview.png
 ---
 
 ## The Music and Recording
