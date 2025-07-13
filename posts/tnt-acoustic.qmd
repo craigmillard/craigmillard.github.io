@@ -1,0 +1,22 @@
+---
+title: "T.N.T. Acoustic (AC/DC)"
+date: 2017-03-01
+categories: [music, vocals-and-guitar]
+image: "/static/media/t-n-t-acoustic-acdc.png"
+---
+
+I've never really taken guitar lessons and am terrified to see all my bad habits face me. It's a great instrument, but except for a few songs I'm on piano. (So I say "I don't play guitar... **BUT** I have watched a lot of Angus Young videos on YouTube" 😉).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A8-ZAphB5DM" frameborder="0" allowfullscreen></iframe>
+
+---
+
+I've liked AC/DC since I was a kid. My friend James Dawson burned me all their albums and I actually bought *Stiff Upper Lip*. I've got the "studio" set up.
+
+In this clip, at the beginning there's a little guitar lick that I play which is 100% recorded using the GoPro's onboard mic. I think it sounds really full because of the sympathetic vibrations coming up the neck and through the attachment device.
+
+I switch to a mix between the GoPro's audio and the "studio mix" right before I start singing — if you listen carefully you can hear it. The "studio mix" is the guitar with effects coming in on a 1/4" via a Scarlett 2i2 USB interface. The vocals come in via that big-ass mic with an XLR connection to the Scarlett 2i2.
+
+Guitar and singing are hard to record (at the same time) because no matter the setup, if you're using an acoustic guitar you're going to get a lot of that into the mic. The vocals don't sound as warm or full as I'd like because I had to adjust (reduce) the vocal track around the 1k to 3k range. I did that because the guitar "slap" percussion was REALLY loud and made the whole mix basically suck green goat balls.
+
+Anyway — turned out okay.

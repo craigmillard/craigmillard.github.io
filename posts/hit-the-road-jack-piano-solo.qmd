@@ -1,0 +1,14 @@
+---
+title: "Hit The Road Jack (Piano Solo)"
+author: Craig Millard
+date: 2015-09-26
+categories: [Band Performance, Music]
+draft: false
+format: html
+---
+
+The Flustered Cluckers in full force at the Alaska Capital City Brewfewst. Great time!
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/RiK12Hk7ELI" frameborder="0" allowfullscreen></iframe>
+</div>

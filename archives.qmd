@@ -1,0 +1,8 @@
+---
+title: "The Archives"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  fields: [title, date]
+---

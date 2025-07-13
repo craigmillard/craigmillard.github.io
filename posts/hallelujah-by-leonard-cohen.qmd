@@ -1,0 +1,15 @@
+---
+title: "Hallelujah by Leonard Cohen"
+author: Craig Millard
+date: 2013-08-10
+categories: [Solo Piano]
+tags: [classic, leonard cohen, piano, piano cover, pop]
+draft: false
+format: html
+---
+
+Just a solo piano cover by the great Leonard Cohen.
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IqI_-7N5-9A" frameborder="0" allowfullscreen></iframe>
+</div>

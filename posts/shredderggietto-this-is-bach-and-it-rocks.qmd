@@ -1,0 +1,16 @@
+---
+title: "Shredderggietto (This is Bach and it Rocks)"
+author: Craig Millard
+date: 2013-08-08
+categories: [Solo Piano]
+draft: false
+format: html
+---
+
+I actually got the idea of this from *Tenacious D's Pick of Destiny*. A bit sloppy but whadda ya gonna do? It's rock and roll, hunny.  
+Also this isn't really solo piano, but accompanied piano — stop being so pedantic.
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YdVRhTAlJjA" frameborder="0" allowfullscreen></iframe>
+</div>
+

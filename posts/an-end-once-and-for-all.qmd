@@ -1,0 +1,10 @@
+---
+title: "An End Once and For All by Clint Mansell"
+date: 2016-03-01
+categories: [music, solo-piano]
+image: "/static/media/an-end-once-and-for-all-by-clint-mansell.png"
+---
+
+I originally recorded this on 3/1/2016, so I've listed that as the publish date, but I went back and hit it with some re-engineering at the sound level on 2/13/2017.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oT6izRHmTr0" frameborder="0" allowfullscreen></iframe>

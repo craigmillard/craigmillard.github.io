@@ -1,0 +1,10 @@
+---
+title: "Star Wars Binary Sunset"
+date: 2015-12-24
+categories: [music, duet]
+image: "/static/media/star-wars-binary-sunset.png"
+---
+
+Stick around for the original recording. I updated the sound on this right after Christmas of 2016. I believe it was the day before Carrie Fisher died :(
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rh2q5RXmSNM" frameborder="0" allowfullscreen></iframe>

@@ -4,6 +4,5 @@ listing:
   contents: posts
   sort: "date desc"
   type: default
-paginate: true
-paginate-limit: 5
+  max-items: 11
 ---

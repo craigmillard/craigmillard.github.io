@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2020-10-13">
-<meta name="description" content="A solo piano cover of the Pixies song, famously used in the final scene of Fight Club.">
 
-<title>Where is My Mind? (Cover Song) – craigmillard.github.io</title>
+<title>The Archives – craigmillard.github.io</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,23 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-cc63fce9873912f1bbbccf05079cc9ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-cc63fce9873912f1bbbccf05079cc9ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,9 +69,67 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../styles.css">
+    const options = {
+      valueNames: ['listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -81,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">craigmillard.github.io</span>
     </a>
   </div>
@@ -92,15 +150,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../archives.html"> 
+    <a class="nav-link active" href="./archives.html" aria-current="page"> 
 <span class="menu-text">The Archives</span></a>
   </li>  
 </ul>
@@ -114,42 +172,22 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#i-heard-it-in-college-where-everyone-else-heard-it" id="toc-i-heard-it-in-college-where-everyone-else-heard-it" class="nav-link active" data-scroll-target="#i-heard-it-in-college-where-everyone-else-heard-it">I heard it in college, where everyone else heard it…</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Where is My Mind? (Cover Song)</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Music</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    A solo piano cover of the Pixies song, famously used in the final scene of Fight Club.
-  </div>
+<h1 class="title">The Archives</h1>
 </div>
 
 
-<div class="quarto-title-meta column-page-left">
+
+<div class="quarto-title-meta column-page">
 
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">October 13, 2020</p>
-    </div>
-  </div>
   
     
   </div>
@@ -159,16 +197,193 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="i-heard-it-in-college-where-everyone-else-heard-it" class="level2">
-<h2 class="anchored" data-anchor-id="i-heard-it-in-college-where-everyone-else-heard-it">I heard it in college, where everyone else heard it…</h2>
-<p>I do a vocal + piano laid back version at shows. However, I’ve changed up my setup so I’ve decided to do a solo piano version. First heard it at the end of <em>Fight Club</em> like everyone else — how vanilla am I?</p>
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/4u8d_zMgxD8" frameborder="0" allowfullscreen="">
-</iframe>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-file-modified-sort="1752378267664" data-listing-filename-sort="vocododer-stevie.qmd">
+<td>
+<a href="./posts/vocododer-stevie.html" class="title listing-title">&nbsp;</a>
+</td>
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="TXVzaWMlMkNDb3ZlcnM=" data-listing-date-sort="1633334400000" data-listing-file-modified-sort="1752374012154" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68" data-listing-title-sort="Santeria (Cover Song) with UA plugins" data-listing-filename-sort="santeria-cover-song.qmd">
+<td>
+<a href="./posts/santeria-cover-song.html" class="title listing-title">Santeria (Cover Song) with UA plugins</a>
+</td>
+<td>
+<span class="listing-date">Oct 4, 2021</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-categories="QXJ0JTJDTXVzaWM=" data-listing-date-sort="1631520000000" data-listing-file-modified-sort="1752374130666" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="247" data-listing-title-sort="Sweetwater – A 3D Player Piano" data-listing-filename-sort="sweetwater-3d-player-piano.qmd">
+<td>
+<a href="./posts/sweetwater-3d-player-piano.html" class="title listing-title">Sweetwater – A 3D Player Piano</a>
+</td>
+<td>
+<span class="listing-date">Sep 13, 2021</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-categories="TXVzaWM=" data-listing-date-sort="1602576000000" data-listing-file-modified-sort="1752374634728" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="48" data-listing-title-sort="Where is My Mind? (Cover Song)" data-listing-filename-sort="where-is-my-mind.qmd">
+<td>
+<a href="./posts/where-is-my-mind.html" class="title listing-title">Where is My Mind? (Cover Song)</a>
+</td>
+<td>
+<span class="listing-date">Oct 13, 2020</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-categories="bXVzaWM=" data-listing-date-sort="1594022400000" data-listing-file-modified-sort="1752375263250" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="84" data-listing-title-sort="Mr. Blue (Cover Song)" data-listing-filename-sort="mr-blue.qmd">
+<td>
+<a href="./posts/mr-blue.html" class="title listing-title">Mr.&nbsp;Blue (Cover Song)</a>
+</td>
+<td>
+<span class="listing-date">Jul 6, 2020</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-categories="bXVzaWM=" data-listing-date-sort="1589097600000" data-listing-file-modified-sort="1752375447651" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64" data-listing-title-sort="My Mind (Original Song)" data-listing-filename-sort="my-mind-original-song.qmd">
+<td>
+<a href="./posts/my-mind-original-song.html" class="title listing-title">My Mind (Original Song)</a>
+</td>
+<td>
+<span class="listing-date">May 10, 2020</span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-categories="bXVzaWMlMkNzb3VuZHRyYWNrJTJDdmlkZW8tZ2FtZQ==" data-listing-date-sort="1488963600000" data-listing-file-modified-sort="1752375709617" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52" data-listing-title-sort="Still Alive (Portal)" data-listing-filename-sort="still-alive-cover-song.qmd">
+<td>
+<a href="./posts/still-alive-cover-song.html" class="title listing-title">Still Alive (Portal)</a>
+</td>
+<td>
+<span class="listing-date">Mar 8, 2017</span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-categories="bXVzaWMlMkN2b2NhbHMtYW5kLWd1aXRhcg==" data-listing-date-sort="1488358800000" data-listing-file-modified-sort="1752377284087" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="270" data-listing-title-sort="T.N.T. Acoustic (AC/DC)" data-listing-filename-sort="tnt-acoustic.qmd">
+<td>
+<a href="./posts/tnt-acoustic.html" class="title listing-title">T.N.T. Acoustic (AC/DC)</a>
+</td>
+<td>
+<span class="listing-date">Mar 1, 2017</span>
+</td>
+
+</tr>
+
+<tr data-index="8" data-categories="bXVzaWMlMkNzb2xvLXBpYW5v" data-listing-date-sort="1456822800000" data-listing-file-modified-sort="1752377696585" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="35" data-listing-title-sort="An End Once and For All by Clint Mansell" data-listing-filename-sort="an-end-once-and-for-all.qmd">
+<td>
+<a href="./posts/an-end-once-and-for-all.html" class="title listing-title">An End Once and For All by Clint Mansell</a>
+</td>
+<td>
+<span class="listing-date">Mar 1, 2016</span>
+</td>
+
+</tr>
+
+<tr data-index="9" data-categories="bXVzaWMlMkNzb2xvLXBpYW5v" data-listing-date-sort="1454058000000" data-listing-file-modified-sort="1752377786929" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6" data-listing-title-sort="Rains of Castamere" data-listing-filename-sort="rains-of-castamere.qmd">
+<td>
+<a href="./posts/rains-of-castamere.html" class="title listing-title">Rains of Castamere</a>
+</td>
+<td>
+<span class="listing-date">Jan 29, 2016</span>
+</td>
+
+</tr>
+
+<tr data-index="10" data-categories="bXVzaWMlMkNkdWV0" data-listing-date-sort="1450947600000" data-listing-file-modified-sort="1752378294976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33" data-listing-title-sort="Star Wars Binary Sunset" data-listing-filename-sort="star-wars-binary-sunset.qmd">
+<td>
+<a href="./posts/star-wars-binary-sunset.html" class="title listing-title">Star Wars Binary Sunset</a>
+</td>
+<td>
+<span class="listing-date">Dec 24, 2015</span>
+</td>
+
+</tr>
+
+<tr data-index="11" data-categories="QmFuZCUyMFBlcmZvcm1hbmNlJTJDTXVzaWM=" data-listing-date-sort="1443254400000" data-listing-file-modified-sort="1752378416081" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="22" data-listing-title-sort="Hit The Road Jack (Piano Solo)" data-listing-filename-sort="hit-the-road-jack-piano-solo.qmd">
+<td>
+<a href="./posts/hit-the-road-jack-piano-solo.html" class="title listing-title">Hit The Road Jack (Piano Solo)</a>
+</td>
+<td>
+<span class="listing-date">Sep 26, 2015</span>
+</td>
+
+</tr>
+
+<tr data-index="12" data-categories="U29sbyUyMFBpYW5v" data-listing-date-sort="1376121600000" data-listing-file-modified-sort="1752378580186" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="18" data-listing-title-sort="Hallelujah by Leonard Cohen" data-listing-filename-sort="hallelujah-by-leonard-cohen.qmd">
+<td>
+<a href="./posts/hallelujah-by-leonard-cohen.html" class="title listing-title">Hallelujah by Leonard Cohen</a>
+</td>
+<td>
+<span class="listing-date">Aug 10, 2013</span>
+</td>
+
+</tr>
+
+<tr data-index="13" data-categories="U29sbyUyMFBpYW5v" data-listing-date-sort="1375948800000" data-listing-file-modified-sort="1752378619882" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49" data-listing-title-sort="Shredderggietto (This is Bach and it Rocks)" data-listing-filename-sort="shredderggietto-this-is-bach-and-it-rocks.qmd">
+<td>
+<a href="./posts/shredderggietto-this-is-bach-and-it-rocks.html" class="title listing-title">Shredderggietto (This is Bach and it Rocks)</a>
+</td>
+<td>
+<span class="listing-date">Aug 8, 2013</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

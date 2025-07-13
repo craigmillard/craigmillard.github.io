@@ -2,12 +2,39 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/vocododer-stevie.html",
       "/posts/santeria-cover-song.html",
       "/posts/sweetwater-3d-player-piano.html",
       "/posts/where-is-my-mind.html",
       "/posts/mr-blue.html",
       "/posts/my-mind-original-song.html",
-      "/posts/still-alive-cover-song.html"
+      "/posts/still-alive-cover-song.html",
+      "/posts/tnt-acoustic.html",
+      "/posts/an-end-once-and-for-all.html",
+      "/posts/rains-of-castamere.html",
+      "/posts/star-wars-binary-sunset.html",
+      "/posts/hit-the-road-jack-piano-solo.html",
+      "/posts/hallelujah-by-leonard-cohen.html",
+      "/posts/shredderggietto-this-is-bach-and-it-rocks.html"
+    ]
+  },
+  {
+    "listing": "/archives.html",
+    "items": [
+      "/posts/vocododer-stevie.html",
+      "/posts/santeria-cover-song.html",
+      "/posts/sweetwater-3d-player-piano.html",
+      "/posts/where-is-my-mind.html",
+      "/posts/mr-blue.html",
+      "/posts/my-mind-original-song.html",
+      "/posts/still-alive-cover-song.html",
+      "/posts/tnt-acoustic.html",
+      "/posts/an-end-once-and-for-all.html",
+      "/posts/rains-of-castamere.html",
+      "/posts/star-wars-binary-sunset.html",
+      "/posts/hit-the-road-jack-piano-solo.html",
+      "/posts/hallelujah-by-leonard-cohen.html",
+      "/posts/shredderggietto-this-is-bach-and-it-rocks.html"
     ]
   }
 ]
