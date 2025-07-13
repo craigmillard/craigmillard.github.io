@@ -1,38 +1,24 @@
 [
   {
-    "objectID": "posts/sweetwater-3d-player-piano.html",
-    "href": "posts/sweetwater-3d-player-piano.html",
-    "title": "Sweetwater – A 3D Player Piano",
+    "objectID": "posts/where-is-my-mind.html",
+    "href": "posts/where-is-my-mind.html",
+    "title": "Where is My Mind? (Cover Song)",
     "section": "",
-    "text": "This is an arrangement I made featuring four voices. I originally got the idea from the player piano from the Westworld intro, but I wanted to expand on it — having it move through space on three axes. To make things even more compelling I wanted a time-synced effect with each voice.\n\n\nAfter I recorded the performance on a green screen and 4K camera, I used After Effects, Visual Studio Code + Adobe plugin, and Tone.js to render the MIDI data. The mixing was done in Ableton.\n\n\n\nGreen screen and Seaboard RISE 25"
+    "text": "I do a vocal + piano laid back version at shows. However, I’ve changed up my setup so I’ve decided to do a solo piano version. First heard it at the end of Fight Club like everyone else — how vanilla am I?"
   },
   {
-    "objectID": "posts/sweetwater-3d-player-piano.html#the-music-and-recording",
-    "href": "posts/sweetwater-3d-player-piano.html#the-music-and-recording",
-    "title": "Sweetwater – A 3D Player Piano",
+    "objectID": "posts/where-is-my-mind.html#i-heard-it-in-college-where-everyone-else-heard-it",
+    "href": "posts/where-is-my-mind.html#i-heard-it-in-college-where-everyone-else-heard-it",
+    "title": "Where is My Mind? (Cover Song)",
     "section": "",
-    "text": "This is an arrangement I made featuring four voices. I originally got the idea from the player piano from the Westworld intro, but I wanted to expand on it — having it move through space on three axes. To make things even more compelling I wanted a time-synced effect with each voice.\n\n\nAfter I recorded the performance on a green screen and 4K camera, I used After Effects, Visual Studio Code + Adobe plugin, and Tone.js to render the MIDI data. The mixing was done in Ableton.\n\n\n\nGreen screen and Seaboard RISE 25"
+    "text": "I do a vocal + piano laid back version at shows. However, I’ve changed up my setup so I’ve decided to do a solo piano version. First heard it at the end of Fight Club like everyone else — how vanilla am I?"
   },
   {
-    "objectID": "posts/sweetwater-3d-player-piano.html#products-and-libraries",
-    "href": "posts/sweetwater-3d-player-piano.html#products-and-libraries",
-    "title": "Sweetwater – A 3D Player Piano",
-    "section": "Products and Libraries",
-    "text": "Products and Libraries\n\nROLI Seaboard RISE 25\n\nTone.js\n\nTypes for Adobe\n\nVisual Studio Code\n\nNode.js\n\nAdobe After Effects\n\nExtendScript Debugger for VSCode\n\nI also used Premiere/Media Encoder for the final render. The ExtendScript debugger was pretty rough to use, as was walking the property arrays within After Effects to figure out how to render rectangles from MIDI data. I’ll consider alternatives. I love AE, but a good scripting interface is a must these days."
-  },
-  {
-    "objectID": "posts/sweetwater-3d-player-piano.html#my-code",
-    "href": "posts/sweetwater-3d-player-piano.html#my-code",
-    "title": "Sweetwater – A 3D Player Piano",
-    "section": "My Code",
-    "text": "My Code\nTo be fair to those who wrote the extension, it’s probably not as bad as this code that drew the rectangles from the MIDI data (generated object by Tone.js). However, I haven’t found a better documented way for drawing rectangles, so I may take some time to refactor this — it’s something I’m sure other people would like to do too.\nhttps://github.com/craigmillard/sweetwater-visuals/\n\n\n\nMIDI rectangles drawn into AE"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Recent music projects",
+    "objectID": "posts/santeria-cover-song.html",
+    "href": "posts/santeria-cover-song.html",
+    "title": "Santeria (Cover Song) with UA plugins",
     "section": "",
-    "text": "Santeria (Cover Song) with UA plugins\n\n\nA cover of Sublime’s ‘Santeria’ featuring Universal Audio plugins and live vocals.\n\n\n\n\n\nOct 4, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nSweetwater – A 3D Player Piano\n\n\nA multi-voice piano arrangement inspired by Westworld, built with MIDI, After Effects, and custom scripting.\n\n\n\n\n\nSep 13, 2021\n\n\n\n\n\nNo matching items"
+    "text": "This is a video of me covering Santeria by Sublime. I’m not an expert on video production, but I do know it is very important to get your llamas in frame- whether they be of the cup or stuffed variety.\n\n\nI also used a UA Apollo Twin as the interface, and everything was tracked in Ableton. The video was synced and edited in Premiere."
   },
   {
     "objectID": "about.html",
@@ -98,10 +84,66 @@
     "text": "Production Skills\nCraig is a software developer by trade and merges that with creative work in music and video. He’s especially interested in MIDI-controlled environments. One recent project included a background video for a talent portion in the Miss Gay America national pageant.\nTools:\n\nAdobe Premiere / After Effects\n\nAbleton 12 (10+ years)\n\nUAD Plugins + Apollo Twin\n\nAudacity (15+ years)\n\nOBS\n\nMusescore\n\nLightKey"
   },
   {
-    "objectID": "posts/santeria-cover-song.html",
-    "href": "posts/santeria-cover-song.html",
-    "title": "Santeria (Cover Song) with UA plugins",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Recent music projects",
     "section": "",
-    "text": "This is a video of me covering Santeria by Sublime. I’m not an expert on video production, but I do know it is very important to get your llamas in frame- whether they be of the cup or stuffed variety.\n\n\nI also used a UA Apollo Twin as the interface, and everything was tracked in Ableton. The video was synced and edited in Premiere."
+    "text": "Santeria (Cover Song) with UA plugins\n\n\nA cover of Sublime’s ‘Santeria’ featuring Universal Audio plugins and live vocals.\n\n\n\n\n\nOct 4, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nSweetwater – A 3D Player Piano\n\n\nA multi-voice piano arrangement inspired by Westworld, built with MIDI, After Effects, and custom scripting.\n\n\n\n\n\nSep 13, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nWhere is My Mind? (Cover Song)\n\n\nA solo piano cover of the Pixies song, famously used in the final scene of Fight Club.\n\n\n\n\n\nOct 13, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nMr. Blue (Cover Song)\n\n\n\n\n\n\n\n\nJul 6, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nMy Mind (Original Song)\n\n\n\n\n\n\n\n\nMay 10, 2020\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/sweetwater-3d-player-piano.html",
+    "href": "posts/sweetwater-3d-player-piano.html",
+    "title": "Sweetwater – A 3D Player Piano",
+    "section": "",
+    "text": "This is an arrangement I made featuring four voices. I originally got the idea from the player piano from the Westworld intro, but I wanted to expand on it — having it move through space on three axes. To make things even more compelling I wanted a time-synced effect with each voice.\n\n\nAfter I recorded the performance on a green screen and 4K camera, I used After Effects, Visual Studio Code + Adobe plugin, and Tone.js to render the MIDI data. The mixing was done in Ableton.\n\n\n\nGreen screen and Seaboard RISE 25"
+  },
+  {
+    "objectID": "posts/sweetwater-3d-player-piano.html#the-music-and-recording",
+    "href": "posts/sweetwater-3d-player-piano.html#the-music-and-recording",
+    "title": "Sweetwater – A 3D Player Piano",
+    "section": "",
+    "text": "This is an arrangement I made featuring four voices. I originally got the idea from the player piano from the Westworld intro, but I wanted to expand on it — having it move through space on three axes. To make things even more compelling I wanted a time-synced effect with each voice.\n\n\nAfter I recorded the performance on a green screen and 4K camera, I used After Effects, Visual Studio Code + Adobe plugin, and Tone.js to render the MIDI data. The mixing was done in Ableton.\n\n\n\nGreen screen and Seaboard RISE 25"
+  },
+  {
+    "objectID": "posts/sweetwater-3d-player-piano.html#products-and-libraries",
+    "href": "posts/sweetwater-3d-player-piano.html#products-and-libraries",
+    "title": "Sweetwater – A 3D Player Piano",
+    "section": "Products and Libraries",
+    "text": "Products and Libraries\n\nROLI Seaboard RISE 25\n\nTone.js\n\nTypes for Adobe\n\nVisual Studio Code\n\nNode.js\n\nAdobe After Effects\n\nExtendScript Debugger for VSCode\n\nI also used Premiere/Media Encoder for the final render. The ExtendScript debugger was pretty rough to use, as was walking the property arrays within After Effects to figure out how to render rectangles from MIDI data. I’ll consider alternatives. I love AE, but a good scripting interface is a must these days."
+  },
+  {
+    "objectID": "posts/sweetwater-3d-player-piano.html#my-code",
+    "href": "posts/sweetwater-3d-player-piano.html#my-code",
+    "title": "Sweetwater – A 3D Player Piano",
+    "section": "My Code",
+    "text": "My Code\nTo be fair to those who wrote the extension, it’s probably not as bad as this code that drew the rectangles from the MIDI data (generated object by Tone.js). However, I haven’t found a better documented way for drawing rectangles, so I may take some time to refactor this — it’s something I’m sure other people would like to do too.\nhttps://github.com/craigmillard/sweetwater-visuals/\n\n\n\nMIDI rectangles drawn into AE"
+  },
+  {
+    "objectID": "posts/mr-blue.html",
+    "href": "posts/mr-blue.html",
+    "title": "Mr. Blue (Cover Song)",
+    "section": "",
+    "text": "If you do ever get to talk to me about television I will probably hit you with the Bojack recommendation. I think consensus is it warms up into season two, but I actually don’t mind the first season.\nI think the very adult subject matter throws a lot of people off since sprinkled in are animal jokes—there is a bit of dissonance between the fun puns and existentialist depression. If you watch the whole thing you might hear this song."
+  },
+  {
+    "objectID": "posts/mr-blue.html#i-first-heard-it-on-bojack-horseman",
+    "href": "posts/mr-blue.html#i-first-heard-it-on-bojack-horseman",
+    "title": "Mr. Blue (Cover Song)",
+    "section": "",
+    "text": "If you do ever get to talk to me about television I will probably hit you with the Bojack recommendation. I think consensus is it warms up into season two, but I actually don’t mind the first season.\nI think the very adult subject matter throws a lot of people off since sprinkled in are animal jokes—there is a bit of dissonance between the fun puns and existentialist depression. If you watch the whole thing you might hear this song."
+  },
+  {
+    "objectID": "posts/my-mind-original-song.html",
+    "href": "posts/my-mind-original-song.html",
+    "title": "My Mind (Original Song)",
+    "section": "",
+    "text": "I wrote this song while I was living on Susan Butcher’s Dogsled farm. I was in college at the time and living in a dry cabin, that is, a cabin without running water. I will fondly remember my days living on Trail Breaker Kennel. It was right next to the airport and I became immune to landing jet noise."
+  },
+  {
+    "objectID": "posts/my-mind-original-song.html#an-alaskan-dry-cabin-original",
+    "href": "posts/my-mind-original-song.html#an-alaskan-dry-cabin-original",
+    "title": "My Mind (Original Song)",
+    "section": "",
+    "text": "I wrote this song while I was living on Susan Butcher’s Dogsled farm. I was in college at the time and living in a dry cabin, that is, a cabin without running water. I will fondly remember my days living on Trail Breaker Kennel. It was right next to the airport and I became immune to landing jet noise."
   }
 ]

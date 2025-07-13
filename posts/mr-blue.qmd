@@ -1,0 +1,14 @@
+---
+title: "Mr. Blue (Cover Song)"
+date: 2020-07-06
+categories: [music]
+image: "/static/media/mr-blue-cover.png"  # Adjust the filename if needed
+---
+
+## I first heard it on *Bojack Horseman*
+
+If you do ever get to talk to me about television I will probably hit you with the *Bojack* recommendation. I think consensus is it warms up into season two, but I actually don't mind the first season.
+
+I think the very adult subject matter throws a lot of people off since sprinkled in are animal jokes—there is a bit of dissonance between the fun puns and existentialist depression. If you watch the whole thing you might hear this song.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2jHSgXq7I9w" frameborder="0" allowfullscreen></iframe>

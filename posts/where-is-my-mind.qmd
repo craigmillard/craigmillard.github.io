@@ -1,0 +1,13 @@
+---
+title: "Where is My Mind? (Cover Song)"
+date: 2020-10-13
+categories: [Music]
+description: "A solo piano cover of the Pixies song, famously used in the final scene of Fight Club."
+image: /static/media/Where-Is-My-Mind-Preview.png
+---
+
+## I heard it in college, where everyone else heard it...
+
+I do a vocal + piano laid back version at shows. However, I've changed up my setup so I've decided to do a solo piano version. First heard it at the end of *Fight Club* like everyone else — how vanilla am I?
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/4u8d_zMgxD8" frameborder="0" allowfullscreen></iframe>
