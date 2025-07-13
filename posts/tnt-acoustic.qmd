@@ -7,7 +7,7 @@ image: "/static/media/t-n-t-acoustic-acdc.png"
 
 I've never really taken guitar lessons and am terrified to see all my bad habits face me. It's a great instrument, but except for a few songs I'm on piano. (So I say "I don't play guitar... **BUT** I have watched a lot of Angus Young videos on YouTube" 😉).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A8-ZAphB5DM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/A8-ZAphB5DM" frameborder="0" allowfullscreen></iframe>
 
 ---
 

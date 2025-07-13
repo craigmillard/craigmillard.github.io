@@ -9,4 +9,4 @@ image: "/static/media/my-mind-original-song.png"
 
 I wrote this song while I was living on Susan Butcher's Dogsled farm. I was in college at the time and living in a dry cabin, that is, a cabin without running water. I will fondly remember my days living on Trail Breaker Kennel. It was right next to the airport and I became immune to landing jet noise.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2tCmr1PjDYo" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/2tCmr1PjDYo" frameborder="0" allowfullscreen></iframe>
