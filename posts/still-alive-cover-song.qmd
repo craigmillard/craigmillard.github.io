@@ -1,0 +1,14 @@
+---
+title: "Still Alive (Portal)"
+date: 2017-03-08
+categories: [music, soundtrack, video-game]
+image: "/static/media/still-alive-portal.png"
+---
+
+## Would you like some cake? Yes? You must be "still alive".
+
+I got some inspiration to try and create the effect from *Portal*, a.k.a. GLaDOS. It's a lot of fun—there are things I could have smoothed out—but I'm satisfied with this pass.
+
+The song is *Still Alive* and by the great and creative Jonathan Coulton—check out his website: [jonathancoulton.com](http://jonathancoulton.com)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vCKUmdKV6R8" frameborder="0" allowfullscreen></iframe>
