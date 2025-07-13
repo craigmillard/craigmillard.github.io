@@ -4,5 +4,5 @@ listing:
   contents: posts
   sort: "date desc"
   type: default
-  max-items: 11
+  max-items: 10
 ---

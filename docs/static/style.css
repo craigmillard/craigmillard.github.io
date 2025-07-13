@@ -1,0 +1,10 @@
+/* Make Quarto footer larger, fixed, and vertically centered */
+.footer {
+  font-size: 1.25em;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 100;
+  background: hsl(209, 100%, 82%);
+}

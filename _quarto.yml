@@ -16,7 +16,16 @@ website:
       - href: archives.qmd
         text: Archives      
       - href: contact.qmd
-        text: Contact / Bookings          
+        text: Contact / Bookings    
+  page-footer:
+    left: "© 2025 Craig Millard"
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/pcraigmillard/
+      - icon: facebook
+        href: https://www.facebook.com/pcraigmillard
+      - icon: youtube
+        href: https://www.youtube.com/@pcraigmillard      
 
 format:
   html:
@@ -24,4 +33,4 @@ format:
     page-layout: full
     toc: true
     toc-depth: 3
-
+    css: static/styles.css
