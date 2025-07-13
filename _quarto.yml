@@ -5,7 +5,8 @@ project:
     - static
 
 website:
-  title: "craigmillard.github.io"
+  title: "craigmillard.com"
+  site-url: https://craigmillard.com
   navbar:
     left:
       - href: index.qmd
