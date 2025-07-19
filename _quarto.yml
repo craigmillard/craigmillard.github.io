@@ -13,6 +13,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: arrangements.qmd
+        text: Arrangements      
       - href: archives.qmd
         text: Archives      
       - href: contact.qmd
@@ -33,4 +35,3 @@ format:
     page-layout: full
     toc: true
     toc-depth: 3
-    css: static/styles.css
