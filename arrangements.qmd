@@ -18,3 +18,19 @@ page-layout: full
 <iframe src="/static/media/God_rest_ye_Merry_Gentleman_cm_arranged.pdf" width="100%" height="600px">
   This browser does not support PDFs. Please download the PDF to view it: <a href="/static/media/God_rest_ye_Merry_Gentleman_cm_arranged.pdf">Download PDF</a>
 </iframe>
+
+## All of Me (The Taylor Vidic Version)
+
+[View on MuseScore](https://musescore.com/user/29766857/scores/27995371?share=copy_link)
+
+<iframe src="/static/media/all-of-me-arranged-cm.pdf" width="100%" height="600px">
+  This browser does not support PDFs. Please download the PDF to view it: <a href="/static/media/all-of-me-arranged-cm.pdf">Download PDF</a>
+</iframe>
+
+## Fly Me To The Moon
+
+[View on MuseScore](https://musescore.com/user/29766857/scores/27995395?share=copy_link)
+
+<iframe src="/static/media/fly-me-to-themood-arranged-cm.pdf" width="100%" height="600px">
+  This browser does not support PDFs. Please download the PDF to view it: <a href="/static/media/fly-me-to-themood-arranged-cm.pdf">Download PDF</a>
+</iframe>
