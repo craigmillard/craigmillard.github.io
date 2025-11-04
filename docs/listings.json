@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/archives.html",
+    "listing": "/index.html",
     "items": [
+      "/posts/childhood-echoes-at-fish-creek.html",
       "/posts/santeria-cover-song.html",
       "/posts/sweetwater-3d-player-piano.html",
       "/posts/where-is-my-mind.html",
@@ -18,8 +19,9 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/archives.html",
     "items": [
+      "/posts/childhood-echoes-at-fish-creek.html",
       "/posts/santeria-cover-song.html",
       "/posts/sweetwater-3d-player-piano.html",
       "/posts/where-is-my-mind.html",
